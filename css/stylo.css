@@ -1,0 +1,191 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1.2em;
+    color: #40514E;
+}
+
+
+hr{
+    border: dotted #EAF6F6 10px ;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+/*Top Container*/
+
+span{
+    text-decoration: underline;
+}
+
+.topcontainer{
+    background-color:#EAF6F6;
+    padding-top: 100px;
+}
+
+.bcloud{
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+
+}
+
+.tcloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+
+
+/* Middle Container */
+/*Headers*/
+p{
+    line-height: 2;
+}
+
+
+h1{
+    font-family: "Send Flowers", cursive;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 5rem;
+    color: #66BFBF;
+      }
+
+h2{
+    color: #66BFBF;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem; 
+}    
+
+h3{
+    color: #66BFBF;
+    font-family: "Send Flowers", cursive;
+    font-weight: 900; 
+    font-style: normal;
+    font-size:3rem;
+}
+
+h4{
+    font-family: "Lilita One", sans-serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 1.5rem;
+    color: #66BFBF
+  }
+
+
+
+/*Images*/
+.img{
+    width: 18%;
+    padding-top: 10px;
+}
+
+.web{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chess{
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+
+/*Others*/
+
+.middle-container{
+    background-color: white;
+    margin: 100px auto;
+}
+
+ 
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+
+
+/*Bottom Container*/
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 60px 0 1px;
+}
+
+
+.contact{
+    width: 50%;
+    margin: 100px auto;
+}
+
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 19px;
+    font-weight: 500;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding: 14px;
+    background-color: #66BFBB;
+    text-shadow: 1px 1px 20px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+ 
+ .btn:hover {
+    background: #66BFBB;
+    border: outset #000000 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+.footer-link{
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: medium;
+    color: #11999E;
+    margin-right: 30px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+#name{
+    color:#EAF6F6;
+    font-size: 1rem;
+}
